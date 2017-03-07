@@ -106,7 +106,7 @@
 }
 
 .footer__author--normal {
-	font-size: 1.5em !important;
+	font-size: 1em !important;
 	border-top: 1px solid #ccc;
 	padding-bottom: 10px;
 }
@@ -119,6 +119,7 @@
 	/* styles applied when the page/app is viewed on a screen with a width greater than or equal to 720px */
 	.footer__quote--normal {
 		margin-top: 10px !important;
+		font-size: 0.65em;
 	}
 	.footer__container--normal > img {
 		width: 20% !important;
