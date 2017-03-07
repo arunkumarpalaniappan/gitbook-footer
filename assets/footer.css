@@ -4,7 +4,7 @@
 
 .footer {
 	margin-top: 50px;
-	padding: 10px 0 80px;
+	padding: 10px 0px 0px 0px
 	font-size: 12px;
 	position: relative
 }
@@ -106,8 +106,8 @@
 }
 
 .footer__author--normal {
-	font-size: 2em !important;
-	border-bottom: 1px solid #ccc;
+	font-size: 1.5em !important;
+	border-top: 1px solid #ccc;
 	padding-bottom: 10px;
 }
 
